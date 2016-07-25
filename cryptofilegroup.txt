@@ -47,4 +47,3 @@ Extension
 *.xxx
 *.xyz
 *.zepto
-*.zzz
