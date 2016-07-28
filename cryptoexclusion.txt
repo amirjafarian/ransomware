@@ -1,3 +1,3 @@
 Exclusion
-*profile.enc
+*profiles.enc
 *test.test
