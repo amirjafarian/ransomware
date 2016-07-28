@@ -1,2 +1,3 @@
 Exclusion
 *profile.enc
+*test.test
