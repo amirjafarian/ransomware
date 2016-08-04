@@ -1,2 +1,3 @@
 Exclusion
 *profiles.enc
+*\wc_data.cry
