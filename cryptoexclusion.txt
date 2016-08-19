@@ -1,3 +1,4 @@
 Exclusion
 *profiles.enc
 *_data.cry
+*Veeam.Backup.Crypto.dll
