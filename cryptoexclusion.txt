@@ -2,3 +2,4 @@ Exclusion
 *profiles.enc
 *_data.cry
 *Veeam.Backup.Crypto.dll*
+C:\Program Files\Microsoft Monitoring Agent\Agent\Health Service State\Monitoring Host Temporary Files*
