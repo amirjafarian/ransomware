@@ -47,3 +47,4 @@ Extension
 *.xxx
 *.xyz
 *.zepto
+*.scl
