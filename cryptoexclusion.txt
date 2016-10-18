@@ -3,3 +3,4 @@ Exclusion
 *_data.cry
 *Veeam.Backup.Crypto.dll*
 *Monitoring Host Temporary Files*
+*BouncyCastle.Crypto.dll
