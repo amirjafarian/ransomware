@@ -48,3 +48,4 @@ Extension
 *.xyz
 *.zepto
 *.scl
+*.shit
