@@ -4,3 +4,4 @@ Exclusion
 *Veeam.Backup.Crypto.dll*
 *Monitoring Host Temporary Files*
 *BouncyCastle.Crypto.dll
+LCHECK*.XYZ
