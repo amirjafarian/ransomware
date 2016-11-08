@@ -5,3 +5,4 @@ Exclusion
 *Monitoring Host Temporary Files*
 *BouncyCastle.Crypto.dll
 LCHECK*.XYZ
+wzjze4k2.aaa
