@@ -49,3 +49,4 @@ Extension
 *.zepto
 *.scl
 *.shit
+*.*airacropencrypted!
