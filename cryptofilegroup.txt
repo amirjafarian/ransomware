@@ -50,3 +50,4 @@ Extension
 *.scl
 *.shit
 *.*airacropencrypted!
+*.*aesir
