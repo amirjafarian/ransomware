@@ -58,7 +58,6 @@ Extension
 *.alcatraz
 *.angelamerkel
 *.axx
-*.bin
 *.bitstak
 *.breaking_bad
 *.btc
