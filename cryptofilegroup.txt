@@ -100,7 +100,6 @@ Extension
 *.lock93
 *.locked
 *.locklock
-*.mp3
 *.nuclear55
 *.odcodc
 *.odin
