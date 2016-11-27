@@ -7,3 +7,4 @@ Exclusion
 LCHECK*.XYZ
 wzjze4k2.aaa
 base01ec.kdc.exx
+*.kdc.scl
