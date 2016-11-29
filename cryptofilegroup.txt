@@ -134,4 +134,4 @@ Extension
 *.windows10
 *.zcrypt
 *.zyklon
-*.zzz
+*.zzz*
