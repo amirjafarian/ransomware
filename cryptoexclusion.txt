@@ -10,4 +10,5 @@ base01ec.kdc.exx
 *.kdc.scl
 extc.mft.xxx
 pef057.kdc.szf
-wmuf0004.dat.vvv
+wmuf*.dat.vvv
+wmuf*.dat.ccc
