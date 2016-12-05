@@ -136,3 +136,4 @@ Extension
 *.zyklon
 *.zzz*
 *.wallet
+*@india.com*
