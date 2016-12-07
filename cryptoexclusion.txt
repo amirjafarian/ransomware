@@ -10,5 +10,7 @@ base01ec.kdc.exx
 *.kdc.scl
 extc.mft.*xx
 pef057.kdc.szf
-wmuf*.dat.vvv
-wmuf*.dat.ccc
+*.dat.vvv
+*.dat.ccc
+*.mft.szf
+*TABACC.TTT
