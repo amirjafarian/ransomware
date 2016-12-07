@@ -8,7 +8,7 @@ LCHECK*.XYZ
 wzjze4k2.aaa
 base01ec.kdc.exx
 *.kdc.scl
-extc.mft.xxx
+extc.mft.*xx
 pef057.kdc.szf
 wmuf*.dat.vvv
 wmuf*.dat.ccc
