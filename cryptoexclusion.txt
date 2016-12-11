@@ -6,8 +6,7 @@ Exclusion
 *BouncyCastle.Crypto.dll
 LCHECK*.XYZ
 wzjze4k2.aaa
-base01ec.kdc.exx
-*.kdc.scl
+*.kdc.*
 extc.mft.*xx
 pef057.kdc.szf
 *.dat.vvv
