@@ -7,9 +7,10 @@ Exclusion
 LCHECK*.XYZ
 wzjze4k2.aaa
 *.kdc.*
-extc.mft.*xx
+*.mft.*xx
 pef057.kdc.szf
 *.dat.vvv
 *.dat.ccc
 *.mft.szf
 *TABACC.TTT
+STRIGGER.TTT
