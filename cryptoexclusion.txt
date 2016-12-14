@@ -14,3 +14,4 @@ pef057.kdc.szf
 *.mft.szf
 *TABACC.TTT
 STRIGGER.TTT
+guiconfig.enc
