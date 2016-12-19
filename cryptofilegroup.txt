@@ -140,3 +140,5 @@ Extension
 *.osiris
 *.*dadgamga*
 *inbox.ru*
+*.kok*
+*.filock*
