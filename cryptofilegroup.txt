@@ -139,3 +139,4 @@ Extension
 *@india.com*
 *.osiris
 *.*dadgamga*
+*inbox.ru*
