@@ -264,20 +264,12 @@ zycrypt.*
 *.domino
 *cerber2
 *.cawwcca
-how_to_unlock*.*
-!Recovery_*.txt
-Read_this_file.txt
 *.encoderpass
 *.7z.encrypted
-ATTENTION!!!.txt
-HELP_DECRYPT.lnk
-restore_files.txt
-HowDecrypt.txt
 $RECYCLE.BIN.{*-*-*-*}
 *.heisenberg
 *.breaking bad
 .~
-*.payfornature@india.com.crypted
 tox.html
 strongcrypt.bmp
 qwer2.html
@@ -292,25 +284,9 @@ enigma.hta
 default432643264.jpg
 default32643264.bmp
 decypt_your_files.html
-de_crypt_readme.txt
-de_crypt_readme.html
-de_crypt_readme.bmp
 cryptinfo.txt
 crjoker.html
-_how_recover*.txt
-_how_recover*.html
-_DECRYPT_INFO_*.html
-YOUGOTHACKED.TXT
-SIFRE_COZME_TALIMATI.html
-SHTODELATVAM.txt
-RESTORE_FILES_*.txt
-RESTORE_FILES_*.*
-Payment_Instructions.jpg
-MENSAGEM.txt
-AllFilesAreLocked*.bmp
-4-14-2016-INFECTION.TXT
 *_ryp
-*_HELP_instructions.html
 *.xcrypt
 *.porno.pornoransom
 *.plauge17
@@ -371,20 +347,6 @@ _help_instruct*.*
 *decrypt my file*.*
 help_file_*.*
 recovery+*.*
-readme_for_decrypt*.*
-install_tor*.*
-readme_decrypt*.*
-howtodecrypt*.*
-howto_restore*.*
-how_to_recover*.*
-how_recover*.*
-how_to_decrypt*.*
-how to decrypt*.*
-help_restore*.*
-help_your_file*.*
-help_recover*.*
-help_decrypt*.*
-decrypt_instruct*.*
 cryptolocker.*
 *recover_instruction*.*
 *.hydracrypt_ID*
@@ -494,7 +456,6 @@ oor.*
 *.pornoransom
 _ryp
 *.helpdecrypt@ukr*.net
-*.only-we_can-help_you
 *.blocatto
 *.8lock8
 *.777
