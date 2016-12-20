@@ -143,11 +143,8 @@ Extension
 *.kok*
 *.filock*
 *.lesli
-Survey Locker.exe
-!!!!!ATENÃ├O!!!!!.html
 Receipt.exe
 WindowsApplication1.exe
-HWID Lock.exe
 VIP72.exe
 DALE_FILES.TXT
 *.DALE
@@ -156,7 +153,6 @@ DALE_FILES.TXT
 *.paymrts
 *.paymds
 READ@My.txt
-Cyber SpLiTTer Vbs.exe
 *.flyper
 *.helpdecrypt@india.com
 *.VforVendetta
@@ -166,25 +162,16 @@ popcorn_time.exe
 *.uDz2j8mv
 OSIRIS-*.htm
 DesktopOsiris.htm
-*[cryptservice@inbox.ru]*
 *.no_more_ransom
 bahij2@india.com
 *.lovewindows
 *.R.i.P
-Important!.txt
-!_HOW_TO_RESTORE_*.txt
-HOW_TO_RESTORE_FILES.txt
-_README_*.hta
 *.Zzzz
-*[lavandos@dr.com].wallet
+*lavandos@dr.com*
 *.coin
 *.crypted_file
 *.EncrypTile
 *.hcked
-_README_.hta
-Runsome.exe
-Payment_Advice.mht
-lblMain.txt
 *.hannah
 *.vindows
 zcrypt.exe 
@@ -193,14 +180,6 @@ zcrypt.exe
 *.zzzzz
 xort.txt
 locked.bmp
-ATTENTION.url
-README!!!.txt
-# README.hta
-!Recovery_*.html
-YourID.txt
-recover.bmp
-recover.txt
-READ_IT.txt
 *.!emc
 *.adr
 svchosd.exe
@@ -214,12 +193,8 @@ svchosd.exe
 *.duhust
 *.exploit
 *_crypt
-*_help_instruct*.*
 *!DMAlock*
 *.GSupport3
-ransomed.html
-*_WHAT_is.html
-readme.hta
 *.96e2
 *.usr0
 *.realfs0ciety*
@@ -244,7 +219,6 @@ Sarah_G@ausi.com___*
 *.b5c6
 *.ap19
 *.a19
-
 *.zypto*
 zzzzzzzzzzzzzzzzzyyy
 zycrypt.*
