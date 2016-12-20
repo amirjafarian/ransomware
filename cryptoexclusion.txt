@@ -16,3 +16,4 @@ pef057.kdc.szf
 STRIGGER.TTT
 guiconfig.enc
 SBSE____.RDM
+*KasperskyLab*
