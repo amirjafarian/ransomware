@@ -357,19 +357,6 @@ crjoker.html
 *.better_call_saul
 *.AES256
 *.zzz
-vault.txt
-vault.key
-recovery_key.txt
-vault.hta
-message.txt
-recovery_file.txt
-confirmation.key
-enc_files.txt
-last_chance.txt
-*want your files back.*
-*help_restore*.*
-*how_to_recover*.*
-*restore_fi*.*
 *ukr.net*
 *qq_com*
 *keemail.me*
@@ -384,12 +371,6 @@ last_chance.txt
 *.*darkness
 *.*crypto
 *.*cry
-IHAVEYOURSECRET.KEY
-SECRET.KEY
-SECRETIDHERE.KEY
-_secret_code.txt
-ReadDecryptFilesHere.txt
-Coin.Locker.txt
 *.crypto
 *.da_vinci_code
 *.payransom
