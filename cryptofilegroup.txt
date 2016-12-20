@@ -309,11 +309,6 @@ crjoker.html
 *.asdasdasd
 *.ded
 *.bloccato
-*.canihelpyou
-*!recover!*.*
-*recover}-*.*
-*rec0ver*.*
-_help_instruct*.*
 *.hydracrypt_ID*
 *gmail*.crypt
 *.xort
