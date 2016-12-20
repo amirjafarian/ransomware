@@ -240,7 +240,6 @@ zycrypt.*
 *.cawwcca
 *.encoderpass
 *.7z.encrypted
-$RECYCLE.BIN.{*-*-*-*}
 *.heisenberg
 *.breaking bad
 .~
@@ -315,14 +314,6 @@ crjoker.html
 *recover}-*.*
 *rec0ver*.*
 _help_instruct*.*
-*_recover_*.*
-*+recover+*.*
-*warning-!!*.*
-*decrypt my file*.*
-help_file_*.*
-recovery+*.*
-cryptolocker.*
-*recover_instruction*.*
 *.hydracrypt_ID*
 *gmail*.crypt
 *.xort
@@ -370,7 +361,6 @@ cryptolocker.*
 *.bloc
 *.better_call_saul
 *.AES256
-*.{CRYPTENDBLACKDC}
 *.zzz
 vault.txt
 vault.key
@@ -399,21 +389,9 @@ last_chance.txt
 *.*darkness
 *.*crypto
 *.*cry
-recoverfile*.txt
-recoveryfile*.txt
-_how_recover.txt
-howrecover+*.txt
-restorefiles.txt
 IHAVEYOURSECRET.KEY
 SECRET.KEY
 SECRETIDHERE.KEY
-READTHISNOW!!!.TXT
-IAMREADYTOPAY.TXT
-HELLOTHERE.TXT
-FILESAREGONE.TXT
-DECRYPT_ReadMe.TXT
-Read.txt
-About_Files.txt
 _secret_code.txt
 ReadDecryptFilesHere.txt
 Coin.Locker.txt
