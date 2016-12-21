@@ -378,7 +378,7 @@ oor.*
 *.Silent
 *.RSNSlocked
 *.RAD
-*@ukr*.net
+*@ukr*
 *.blocatto
 *.8lock8
 *.777
