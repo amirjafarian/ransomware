@@ -379,5 +379,4 @@ oor.*
 *.RSNSlocked
 *.RAD
 *@ukr*
-*.8lock8
 *.777
