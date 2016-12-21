@@ -372,17 +372,3 @@ crjoker.html
 *.*cry
 *.crypto
 *.da_vinci_code
-*.payransom
-*.KEYH0LES
-oor.*
-*.Z81928819
-*.Silent
-*.RSNSlocked
-*.RAD
-*.porno
-*.pornoransom
-_ryp
-*.helpdecrypt@ukr*.net
-*.blocatto
-*.8lock8
-*.777
