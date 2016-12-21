@@ -214,8 +214,6 @@ Sarah_G@ausi.com___*
 *.crashed
 *.amba
 *.7h9r
-*.???
-*.????
 *.b5c6
 *.ap19
 *.a19
@@ -242,7 +240,6 @@ zycrypt.*
 *.7z.encrypted
 *.heisenberg
 *.breaking bad
-.~
 tox.html
 strongcrypt.bmp
 qwer2.html
