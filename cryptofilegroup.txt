@@ -378,3 +378,7 @@ oor.*
 *.Silent
 *.RSNSlocked
 *.RAD
+*.helpdecrypt@ukr*.net
+*.blocatto
+*.8lock8
+*.777
