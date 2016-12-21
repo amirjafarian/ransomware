@@ -261,14 +261,13 @@ cryptinfo.txt
 crjoker.html
 *_ryp
 *.xcrypt
-*.porno.pornoransom
+*.porno*
 *.plauge17
 *.neitrino
 *.kimcilware.locked
 *.iwanthelpuuu
 *.helpdecrypt@ukr.net
 *.h3ll
-*.gws.porno
 *.fuckyourdata
 *.encrypted.locked
 *.cryptz
@@ -379,5 +378,3 @@ oor.*
 *.Silent
 *.RSNSlocked
 *.RAD
-*.porno
-*.pornoransom
