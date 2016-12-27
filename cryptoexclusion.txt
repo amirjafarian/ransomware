@@ -17,3 +17,4 @@ STRIGGER.TTT
 guiconfig.enc
 SBSE____.RDM
 *KasperskyLab*
+*ProgramData*
