@@ -335,9 +335,7 @@ crjoker.html
 *.gruzin@qq_com
 *.gws
 *.fucked
-*.encryptedped
-*.encryptedRSA
-*.encryptedAES
+*.encrypted*
 *.encedRSA
 *.dyatel@qq_com
 *.CrySiS
@@ -366,7 +364,6 @@ crjoker.html
 *.*darkness
 *.*crypto
 *.*cry
-*.crypto
 *.da_vinci_code
 *.payransom
 *.KEYH0LES
