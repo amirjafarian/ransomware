@@ -167,7 +167,7 @@ bahij2@india.com
 *.lovewindows
 *.R.i.P
 *.Zzzz
-*lavandos@dr.com*
+*@dr.com*
 *.coin
 *.crypted_file
 *.EncrypTile
