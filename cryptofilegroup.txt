@@ -378,3 +378,4 @@ oor.*
 *@ukr*
 *.theworldisyours*
 *.braincrypt*
+*.madebyadam*
