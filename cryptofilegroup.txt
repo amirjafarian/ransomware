@@ -377,3 +377,4 @@ oor.*
 *.RAD
 *@ukr*
 *.theworldisyours*
+*.braincrypt*
