@@ -62,9 +62,7 @@ Extension
 *.breaking_bad
 *.btc
 *.CCCRRRPPP
-*.cerber
-*.cerber2
-*.cerber3
+*.cerber*
 *.coded
 *.comrade
 *.coverton
