@@ -377,3 +377,4 @@ oor.*
 *.bript
 *.hush
 *.maktub
+*.Whereisyourfiles
