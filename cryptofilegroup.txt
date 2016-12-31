@@ -378,3 +378,4 @@ oor.*
 *.madebyadam
 *.bript
 *.hush
+*.maktub
