@@ -377,3 +377,4 @@ oor.*
 *.braincrypt
 *.madebyadam
 *.bript
+*.hush
