@@ -376,3 +376,4 @@ oor.*
 *.theworldisyours*
 *.braincrypt
 *.madebyadam
+*.bript
