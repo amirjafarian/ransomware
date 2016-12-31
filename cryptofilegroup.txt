@@ -251,7 +251,6 @@ enigma_encr.txt
 enigma.hta
 default432643264.jpg
 default32643264.bmp
-decypt_your_files.html
 cryptinfo.txt
 crjoker.html
 *_ryp
