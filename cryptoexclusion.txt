@@ -18,3 +18,4 @@ guiconfig.enc
 SBSE____.RDM
 *KasperskyLab*
 *ProgramData*
+*Program Files*
