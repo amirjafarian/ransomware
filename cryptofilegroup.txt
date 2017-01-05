@@ -368,3 +368,4 @@ oor.*
 *.maktub
 *.Whereisyourfiles
 *.hnumkhotep
+*.decrypt*
