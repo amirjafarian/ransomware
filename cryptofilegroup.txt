@@ -9,8 +9,7 @@ Extension
 *.crinf
 *.crjoker
 *.cry
-*.crypto*
-*.cryptotorlocker*
+*.crypt*
 *.ctb2
 *.ctbl
 *.darkness
@@ -68,10 +67,6 @@ Extension
 *.coverton
 *.crptrgr
 *.cryp1
-*.crypt
-*.crypted
-*.cryptolocker
-*.cryptowall
 *.crypz
 *.czvxce
 *.dCrypt
@@ -101,7 +96,7 @@ Extension
 *.odcodc
 *.odin
 *.p5tkjw
-*.padcrypt
+*.pad
 *.paym
 *.paymrss
 *.payms
@@ -228,7 +223,6 @@ zycrypt.*
 *.SecureCrypte
 *.keybtc@inbox
 *.xorist
-*.crypt1
 !readme.*
 *.C0rp0r@c@0Xr@
 *.domino
@@ -264,8 +258,6 @@ crjoker.html
 *.h3ll
 *.fuckyourdata
 *.encrypted.locked
-*.cryptz
-*.crypttt
 *.cripttt
 *.criptokod
 *.criptiko
@@ -298,7 +290,6 @@ crjoker.html
 *.rtyrtyrty
 !DMALOCK3.0*
 *.evil
-*.crypt38
 *.asdasdasd
 *.ded
 *.bloccato
@@ -336,7 +327,6 @@ crjoker.html
 *.encedRSA
 *.dyatel@qq_com
 *.CrySiS
-*.CryptoTorLocker2015!
 *.crime
 *.code
 *.clf
