@@ -377,3 +377,4 @@ oor.*
 *.hush
 *.maktub
 *.Whereisyourfiles
+*.hnumkhotep
