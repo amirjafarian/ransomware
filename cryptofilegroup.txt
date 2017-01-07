@@ -369,3 +369,4 @@ oor.*
 *.Whereisyourfiles
 *.hnumkhotep
 *.decrypt*
+*.helpmeencedfiles
