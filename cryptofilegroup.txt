@@ -371,3 +371,6 @@ oor.*
 *.decrypt*
 *.helpmeencedfiles
 *.кибер*
+*.PEGS1
+*.MRCR1
+*.RARE1
