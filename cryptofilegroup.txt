@@ -370,3 +370,4 @@ oor.*
 *.hnumkhotep
 *.decrypt*
 *.helpmeencedfiles
+.кибер*
