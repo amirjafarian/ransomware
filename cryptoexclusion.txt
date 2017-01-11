@@ -19,3 +19,4 @@ SBSE____.RDM
 *KasperskyLab*
 *ProgramData*
 *Program Files*
+*Updates.clf
