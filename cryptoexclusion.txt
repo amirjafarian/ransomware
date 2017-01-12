@@ -20,3 +20,4 @@ SBSE____.RDM
 *ProgramData*
 *Program Files*
 *Updates.clf
+*.Crypt_Bak
