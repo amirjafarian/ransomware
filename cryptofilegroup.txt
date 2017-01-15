@@ -375,3 +375,4 @@ oor.*
 *.MRCR1
 *.RARE1
 *.VBRANSOM
+*.file0locked
