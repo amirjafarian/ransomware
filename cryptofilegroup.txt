@@ -376,3 +376,4 @@ oor.*
 *.RARE1
 *.VBRANSOM
 *.file0locked
+*.kencf
