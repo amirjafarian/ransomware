@@ -142,7 +142,6 @@ VIP72.exe
 DALE_FILES.TXT
 *.DALE
 *.8637
-*.kok
 *.paymrts
 *.paymds
 READ@My.txt
