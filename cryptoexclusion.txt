@@ -21,3 +21,4 @@ SBSE____.RDM
 *Program Files*
 *Updates.clf
 *.Crypt_Bak
+*.pdf
