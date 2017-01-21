@@ -379,3 +379,4 @@ oor.*
 *.powerfulldecrypt
 *.noproblemwedecfiles
 *.merry
+*@protonmail.ch*
