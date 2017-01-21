@@ -378,3 +378,4 @@ oor.*
 *.kencf
 *.powerfulldecrypt
 *.noproblemwedecfiles
+*.merry
