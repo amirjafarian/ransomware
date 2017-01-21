@@ -381,3 +381,4 @@ oor.*
 *.merry
 *@protonmail.ch*
 *.sifreli
+*.doomed
