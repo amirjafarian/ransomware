@@ -380,3 +380,4 @@ oor.*
 *.noproblemwedecfiles
 *.merry
 *@protonmail.ch*
+*.sifreli
