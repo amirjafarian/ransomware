@@ -382,3 +382,4 @@ oor.*
 *@protonmail.ch*
 *.sifreli
 *.doomed
+*.killedxxx
