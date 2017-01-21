@@ -377,3 +377,4 @@ oor.*
 *.file0locked
 *.kencf
 *.powerfulldecrypt
+*.noproblemwedecfiles
