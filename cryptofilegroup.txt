@@ -376,7 +376,6 @@ oor.*
 *.VBRANSOM
 *.file0locked
 *.kencf
-*.powerfulldecrypt
 *.noproblemwedecfiles
 *.merry
 *@protonmail.ch*
