@@ -351,3 +351,7 @@ oor.*
 *.noproblemwedecfiles
 *.merry
 *.sifreli
+*.powerfulldecrypt
+*protonmail.ch*
+*.doomed
+*.killedxxx
