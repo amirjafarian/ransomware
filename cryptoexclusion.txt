@@ -17,8 +17,7 @@ STRIGGER.TTT
 guiconfig.enc
 SBSE____.RDM
 *KasperskyLab*
-*ProgramData*
-*Program Files*
+*Program*
 *Updates.clf
 *.Crypt_Bak
 *.pdf
