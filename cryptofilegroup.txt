@@ -350,7 +350,4 @@ oor.*
 *.kencf
 *.noproblemwedecfiles
 *.merry
-*@protonmail.ch*
 *.sifreli
-*.doomed
-*.killedxxx
