@@ -355,3 +355,4 @@ oor.*
 *protonmail.ch*
 *.doomed
 *.killedxxx
+*.sage
