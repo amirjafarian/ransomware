@@ -260,7 +260,7 @@ zycrypt.*
 *.31342E30362E32303136*
 *.rtyrtyrty
 !DMALOCK3.0*
-*.evil
+*.evil*
 *.asdasdasd
 *.ded
 *.bloccato
@@ -357,3 +357,4 @@ oor.*
 *.killedxxx
 *.sage
 Xhelp.jpg
+*.gefickt
