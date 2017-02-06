@@ -359,3 +359,4 @@ oor.*
 Xhelp.jpg
 *.gefickt
 *.yourransom
+*.lambda_l0cked
