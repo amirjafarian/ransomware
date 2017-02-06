@@ -358,3 +358,4 @@ oor.*
 *.sage
 Xhelp.jpg
 *.gefickt
+*.yourransom
