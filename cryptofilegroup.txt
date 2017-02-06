@@ -112,7 +112,7 @@ Extension
 *.R16m01d05
 *.raid10
 *.razy
-*.realfs0ciety@sigaint.org.fs0ciety
+*@sigaint.org*
 *.rekt
 *.rip
 *.rnsmwr
@@ -356,3 +356,4 @@ oor.*
 *.doomed
 *.killedxxx
 *.sage
+Xhelp.jpg
