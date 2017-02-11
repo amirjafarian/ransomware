@@ -141,7 +141,6 @@ Extension
 *.paymrts
 *.paymds
 *.flyper
-*.helpdecrypt@india.com
 *.VforVendetta
 *.filock
 *_.rmd
@@ -360,3 +359,6 @@ Xhelp.jpg
 *.gefickt
 *.yourransom
 *.lambda_l0cked
+*@computer4u.com*
+*Readme0.txt*
+*.velikasrbija
