@@ -23,3 +23,7 @@ SBSE____.RDM
 *.pdf
 *kok-IN.min.js
 *appdata*
+*ACT2016Demo.PAD
+*SkillsIQ.pad
+*sfr.CRY
+*Test.pad
