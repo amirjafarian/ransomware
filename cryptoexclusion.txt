@@ -27,3 +27,5 @@ SBSE____.RDM
 *SkillsIQ.pad
 *sfr.CRY
 *Test.pad
+*SkillsIQ.PAD
+*SkillsIQDEV.PAD
