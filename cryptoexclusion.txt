@@ -16,8 +16,6 @@ pef057.kdc.szf
 STRIGGER.TTT
 guiconfig.enc
 SBSE____.RDM
-*KasperskyLab*
-*Program*
 *Updates.clf
 *.Crypt_Bak
 *.pdf
