@@ -28,3 +28,4 @@ SBSE____.RDM
 *SkillsIQ.PAD
 *SkillsIQDEV.PAD
 *FUNDXPRT.KKK
+*viewconf.xxx
