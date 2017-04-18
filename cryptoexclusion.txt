@@ -29,3 +29,4 @@ SBSE____.RDM
 *SkillsIQDEV.PAD
 *FUNDXPRT.KKK
 *viewconf.xxx
+*CE Documentation*.clf
