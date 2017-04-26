@@ -30,3 +30,4 @@ SBSE____.RDM
 *FUNDXPRT.KKK
 *viewconf.xxx
 *CE Documentation*.clf
+*rears Policy.doc.encrypted
