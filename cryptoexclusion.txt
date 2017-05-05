@@ -31,3 +31,4 @@ SBSE____.RDM
 *viewconf.xxx
 *CE Documentation*.clf
 *rears Policy.doc.encrypted
+*PCDATA*images*SBSE*.AFD
