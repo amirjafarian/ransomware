@@ -362,3 +362,5 @@ Xhelp.jpg
 *@computer4u.com*
 *Readme0.txt*
 *.velikasrbija
+*.wcry
+*.WCRY
