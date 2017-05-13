@@ -363,4 +363,6 @@ Xhelp.jpg
 *Readme0.txt*
 *.velikasrbija
 *.wcry
-*.WCRY
+*.wnry
+*.wncry
+*.wncrypt
