@@ -32,3 +32,4 @@ SBSE____.RDM
 *CE Documentation*.clf
 *rears Policy.doc.encrypted
 *PCDATA*images*SBSE*.AFD
+*PCDATA*Moveitnet*SBSE*
