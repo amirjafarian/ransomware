@@ -369,3 +369,4 @@ Xhelp.jpg
 *.bitkangoroo
 *.theva
 *.vcrypt1
+*.loptr
