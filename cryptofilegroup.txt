@@ -371,3 +371,4 @@ Xhelp.jpg
 *.vcrypt1
 *.loptr
 *.jaff
+*.enjey
