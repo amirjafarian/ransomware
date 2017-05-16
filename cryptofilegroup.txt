@@ -366,3 +366,4 @@ Xhelp.jpg
 *.wnry
 *.wncry
 *.wncrypt
+*.bitkangoroo
