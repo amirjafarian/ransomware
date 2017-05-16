@@ -370,3 +370,4 @@ Xhelp.jpg
 *.theva
 *.vcrypt1
 *.loptr
+*.jaff
