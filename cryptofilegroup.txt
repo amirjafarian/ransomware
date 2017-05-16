@@ -368,3 +368,4 @@ Xhelp.jpg
 *.wncrypt
 *.bitkangoroo
 *.theva
+*.vcrypt1
