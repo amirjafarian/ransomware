@@ -367,3 +367,4 @@ Xhelp.jpg
 *.wncry
 *.wncrypt
 *.bitkangoroo
+*.theva
