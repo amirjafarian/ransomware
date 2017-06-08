@@ -111,7 +111,7 @@ Extension
 *.raid10
 *.razy
 *@sigaint.org*
-*.rekt
+*.*rekt
 *.rip
 *.rnsmwr
 *.rokku
@@ -132,7 +132,6 @@ Extension
 *.*dadgamga*
 *inbox.ru*
 *.kok*
-*.filock*
 *.lesli
 *.DALE
 *.8637
@@ -140,7 +139,6 @@ Extension
 *.paymds
 *.flyper
 *.VforVendetta
-*.filock
 *_.rmd
 *.uDz2j8mv
 OSIRIS-*.htm
@@ -167,11 +165,9 @@ DesktopOsiris.htm
 *.happy
 *.razy1337
 *.zendr4
-*.locked3
 *.duhust
 *.exploit
 *_crypt
-*!DMAlock*
 *.GSupport3
 *.96e2
 *.usr0
@@ -221,25 +217,19 @@ zycrypt.*
 *.porno*
 *.plauge17
 *.neitrino
-*.kimcilware.locked
 *.iwanthelpuuu
 *.helpdecrypt@ukr.net
 *.h3ll
 *.fuckyourdata
-*.encrypted.locked
 *.cripttt
 *.criptokod
 *.criptiko
 *.btc.kkk.fun.gws
 *.aga
 *._ryp
-*.Where_my_files.txt
-*.Read_Me.Txt
 *.RSplited
 *.KEYZ.KEYH0LES
 *.31392E30362E32303136_*
-*.magic_software_syndicate
-*maestro@pizzacrypts.info
 *.CRRRT
 *.akaibvn
 *.cRh8
@@ -256,7 +246,6 @@ zycrypt.*
 *.bart.zip
 *.31342E30362E32303136*
 *.rtyrtyrty
-!DMALOCK3.0*
 *.evil*
 *.asdasdasd
 *.ded
@@ -312,7 +301,6 @@ zycrypt.*
 *install_tor*.*
 *@gmail_com_*
 *.*exx
-*.*locked
 *.*nochance
 *.*kraken
 *.*kb15
@@ -325,7 +313,6 @@ zycrypt.*
 oor.*
 *.Z81928819
 *.Silent
-*.RSNSlocked
 *.RAD
 *@ukr*
 *.theworldisyours*
@@ -343,7 +330,6 @@ oor.*
 *.MRCR1
 *.RARE1
 *.VBRANSOM
-*.file0locked
 *.kencf
 *.noproblemwedecfiles
 *.merry
@@ -382,3 +368,12 @@ Xhelp.jpg
 *.brickr
 *.resurrection
 *.switch
+*.nm4
+*.jeepers
+*.aes_ni_0day
+*.one
+*.FailedAccess
+*.ctf
+*.mole
+*.Contact_TarineOZA*
+*.mordor
