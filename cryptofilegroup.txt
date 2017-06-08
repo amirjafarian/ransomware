@@ -89,7 +89,7 @@ Extension
 *.kostya
 *.kratos
 *.legion
-*.lock*
+*.locked
 *.nuclear55
 *.odcodc
 *.odin
