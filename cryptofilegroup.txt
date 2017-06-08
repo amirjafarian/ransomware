@@ -89,9 +89,7 @@ Extension
 *.kostya
 *.kratos
 *.legion
-*.lock93
-*.locked
-*.locklock
+*.lock*
 *.nuclear55
 *.odcodc
 *.odin
@@ -373,3 +371,14 @@ Xhelp.jpg
 *.jaff
 *.enjey
 *.4rwcry4w
+*.dviide
+*.666
+*.dolphin
+*.imsorry
+*.r3store
+*.andonio
+*.ramen
+*.TRMT
+*.brickr
+*.resurrection
+*.switch
