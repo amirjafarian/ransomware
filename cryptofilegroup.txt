@@ -371,7 +371,6 @@ Xhelp.jpg
 *.nm4
 *.jeepers
 *.aes_ni_0day
-*.one
 *.FailedAccess
 *.ctf
 *.mole
