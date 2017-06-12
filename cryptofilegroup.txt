@@ -376,3 +376,4 @@ Xhelp.jpg
 *.mole
 *.Contact_TarineOZA*
 *.mordor
+*.tdelf
