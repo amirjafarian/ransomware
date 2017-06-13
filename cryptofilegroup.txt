@@ -381,3 +381,6 @@ Xhelp.jpg
 *.blocking
 *.zilla
 *.BeethoveN
+*.R3K7M9
+*.cr020801
+*.payforunlock
