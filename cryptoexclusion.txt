@@ -33,3 +33,4 @@ SBSE____.RDM
 *rears Policy.doc.encrypted
 *SBSE*.AFD
 *SBSE.*
+RDCHXSIG.xyz
