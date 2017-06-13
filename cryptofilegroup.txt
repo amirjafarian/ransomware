@@ -378,3 +378,4 @@ Xhelp.jpg
 *.mordor
 *.tdelf
 *.ogre
+*.blocking
