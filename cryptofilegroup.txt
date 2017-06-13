@@ -377,3 +377,4 @@ Xhelp.jpg
 *.Contact_TarineOZA*
 *.mordor
 *.tdelf
+*.ogre
