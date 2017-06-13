@@ -379,3 +379,4 @@ Xhelp.jpg
 *.tdelf
 *.ogre
 *.blocking
+*.zilla
