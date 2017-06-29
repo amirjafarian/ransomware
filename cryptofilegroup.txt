@@ -400,3 +400,6 @@ Xhelp.jpg
 *.cspider
 *.zbt
 *.master
+*.zza
+*.hii
+*.lmm
