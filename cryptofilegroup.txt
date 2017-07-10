@@ -146,7 +146,6 @@ DesktopOsiris.htm
 *.no_more_ransom
 *.lovewindows
 *.R.i.P
-*.Zzzz
 *@dr.com*
 *.coin
 *.crypted_file
@@ -156,7 +155,6 @@ DesktopOsiris.htm
 *.vindows
 *.zycrypt
 *.sgood
-*.zzzzz
 *.!emc
 *.adr
 *_luck
