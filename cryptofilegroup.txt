@@ -399,11 +399,3 @@ Xhelp.jpg
 *.wlu
 *.cspider
 *.zbt
-*.master
-*.zza
-*.hii
-*.moments2900
-*.ipygh
-*.via
-*posteo.net*
-*.gankLocked
