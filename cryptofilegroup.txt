@@ -402,3 +402,12 @@ Xhelp.jpg
 *.hii
 *.lalabitch
 *.aleta
+*.hii
+*.ipygh
+*.via
+*posteo.net*
+*.gankLocked
+*.lmm
+*crypthelp@qq.com*
+*.rat
+*.mmm
