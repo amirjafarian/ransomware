@@ -399,3 +399,5 @@ Xhelp.jpg
 *.zbt
 *.master
 *.zza
+*.hii
+*.moments2900
