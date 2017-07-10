@@ -407,8 +407,3 @@ Xhelp.jpg
 *.rat
 *.mmm
 *.0x004867
-*.moments2900
-*.ipygh
-*.via
-*posteo.net*
-*.gankLocked
