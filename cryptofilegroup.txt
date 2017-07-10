@@ -175,7 +175,7 @@ DesktopOsiris.htm
 *.fuck
 *.Yakes
 *.Zimbra
-email-salazar_slytherin*
+email-salazar*
 *._AiraCropEncrypted!
 *.~HL*
 Sarah_G@ausi.com___*
