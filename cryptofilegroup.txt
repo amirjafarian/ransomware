@@ -402,8 +402,6 @@ Xhelp.jpg
 *.hii
 *.lalabitch
 *.aleta
-*.hii
-*.ipygh
 *.via
 *.lmm
 *.rat
