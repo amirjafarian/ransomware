@@ -405,7 +405,6 @@ Xhelp.jpg
 *.hii
 *.ipygh
 *.via
-*.gankLocked
 *.lmm
 *.rat
 *.mmm
