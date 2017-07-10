@@ -408,6 +408,5 @@ Xhelp.jpg
 *posteo.net*
 *.gankLocked
 *.lmm
-*crypthelp@qq.com*
 *.rat
 *.mmm
