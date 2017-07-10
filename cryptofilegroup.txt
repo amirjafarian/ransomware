@@ -397,3 +397,5 @@ Xhelp.jpg
 *.wlu
 *.cspider
 *.zbt
+*.master
+*.zza
