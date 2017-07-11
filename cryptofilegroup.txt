@@ -402,4 +402,3 @@ Xhelp.jpg
 *.hii
 *.lalabitch
 *.aleta
-*.mmm
