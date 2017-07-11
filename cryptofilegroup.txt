@@ -401,4 +401,3 @@ Xhelp.jpg
 *.zza
 *.hii
 *.lalabitch
-*.aleta
