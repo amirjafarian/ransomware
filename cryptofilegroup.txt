@@ -48,7 +48,7 @@ Extension
 *.zepto
 *.scl
 *.shit
-*.*airacropencrypted*
+*.*airacropencry*
 *.*aesir
 *.1txt
 *.73i87A
@@ -141,8 +141,6 @@ Extension
 *.VforVendetta
 *_.rmd
 *.uDz2j8mv
-OSIRIS-*.htm
-DesktopOsiris.htm
 *.no_more_ransom
 *.lovewindows
 *.R.i.P
@@ -175,10 +173,8 @@ DesktopOsiris.htm
 *.fuck
 *.Yakes
 *.Zimbra
-email-salazar_slytherin*
-*._AiraCropEncrypted!
 *.~HL*
-Sarah_G@ausi.com___*
+Sarah_G@ausi.com*
 *.zc3791
 *.venusp
 *.shino
@@ -227,7 +223,7 @@ zycrypt.*
 *._ryp
 *.RSplited
 *.KEYZ.KEYH0LES
-*.31392E30362E32303136_*
+*.31392E30362E3*
 *.CRRRT
 *.akaibvn
 *.cRh8
@@ -242,7 +238,7 @@ zycrypt.*
 *.AFD
 *.isis
 *.bart.zip
-*.31342E30362E32303136*
+*.31342E30362E32*
 *.rtyrtyrty
 *.evil*
 *.asdasdasd
@@ -266,7 +262,7 @@ zycrypt.*
 *.oplata@qq_com
 *.oshit
 *.oor
-*.one-we_can-help_you
+*.one-we_can*
 *.nalog@qq_com
 *.korrektor
 *.KEYZ
@@ -401,3 +397,5 @@ Xhelp.jpg
 *.zza
 *.hii
 *.lalabitch
+*.aleta
+*.ipygh
