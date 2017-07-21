@@ -393,7 +393,6 @@ Xhelp.jpg
 *.wlu
 *.cspider
 *.zbt
-*.master
 *.zza
 *.hii
 *.lalabitch
