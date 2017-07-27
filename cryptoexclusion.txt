@@ -36,3 +36,5 @@ SBSE____.RDM
 RDCHXSIG.xyz
 ZZZZZZ.ZZZ
 *ROOM.CODE
+local.magic
+RDP.rdm
