@@ -38,3 +38,4 @@ ZZZZZZ.ZZZ
 *ROOM.CODE
 local.magic
 RDP.rdm
+*CryptKey*
