@@ -368,7 +368,7 @@ Xhelp.jpg
 *.FailedAccess
 *.ctf
 *.mole
-*.Contact_TarineOZA*
+*.*TarineOZA*
 *.mordor
 *.tdelf
 *.ogre
@@ -399,3 +399,4 @@ Xhelp.jpg
 *.aleta
 *.ipygh
 *.725
+*supported2017
