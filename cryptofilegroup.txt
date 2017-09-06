@@ -131,7 +131,7 @@ Extension
 *.osiris
 *.*dadgamga*
 *inbox.ru*
-*.kok*
+*.kok
 *.lesli
 *.DALE
 *.8637
