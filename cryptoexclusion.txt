@@ -40,3 +40,4 @@ local.magic
 RDP.rdm
 *CryptKey*
 *en.ttt
+default.abc
