@@ -34,7 +34,6 @@ Extension
 *.omg!
 *.r16m*
 *.r5a
-*.rdm
 *.rrk
 *.supercrypt
 *.toxcrypt
