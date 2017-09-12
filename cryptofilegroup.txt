@@ -124,7 +124,7 @@ Extension
 *.windows10
 *.zcrypt
 *.zyklon
-*.zzz*
+*.zzz
 *.wallet
 *@india.com*
 *.osiris
