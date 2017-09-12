@@ -298,7 +298,7 @@ zycrypt.*
 *.*kraken
 *.*kb15
 *.*darkness
-*.*crypto
+*.crypto
 *.cry
 *.da_vinci_code
 *.payransom
