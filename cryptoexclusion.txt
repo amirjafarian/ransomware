@@ -41,3 +41,4 @@ RDP.rdm
 *CryptKey*
 *en.ttt
 default.abc
+*dat*.666
