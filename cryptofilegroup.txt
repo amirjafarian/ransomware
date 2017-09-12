@@ -299,7 +299,7 @@ zycrypt.*
 *.*kb15
 *.*darkness
 *.*crypto
-*.*cry
+*.cry
 *.da_vinci_code
 *.payransom
 *.KEYH0LES
