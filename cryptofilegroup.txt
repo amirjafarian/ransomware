@@ -402,3 +402,4 @@ Xhelp.jpg
 *.gryphon
 *.mtk118
 *ev.php
+*.paradise
