@@ -42,3 +42,4 @@ RDP.rdm
 *en.ttt
 default.abc
 *dat*.666
+SBSE____.ZBT
