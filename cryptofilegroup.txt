@@ -296,7 +296,7 @@ zycrypt.*
 *.*exx
 *.*nochance
 *.*kraken
-*.*kb15
+*.kb15
 *.*darkness
 *.crypto
 *.cry
