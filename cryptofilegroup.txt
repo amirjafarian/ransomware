@@ -23,7 +23,6 @@ Extension
 *.good
 *.ha3
 *.hydracrypt*
-*.kb15
 *.kraken
 *.lechiffre
 *.locky
