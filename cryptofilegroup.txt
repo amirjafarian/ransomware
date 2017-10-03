@@ -233,7 +233,6 @@ zycrypt.*
 *.eclr
 *.epic
 *.paybtcs
-*.AFD
 *.isis
 *.bart.zip
 *.31342E30362E32*
