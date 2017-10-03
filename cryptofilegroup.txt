@@ -239,7 +239,6 @@ zycrypt.*
 *.rtyrtyrty
 *.evil*
 *.asdasdasd
-*.ded
 *.bloccato
 *.hydracrypt_ID*
 *gmail*.crypt
