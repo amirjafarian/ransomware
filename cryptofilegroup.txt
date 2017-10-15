@@ -400,3 +400,4 @@ Xhelp.jpg
 *.mtk118
 *ev.php
 *.paradise
+*.payday
