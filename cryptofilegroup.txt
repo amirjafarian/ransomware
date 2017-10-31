@@ -387,7 +387,7 @@ Xhelp.jpg
 *.rnsmwre
 *.whycry
 *.wlu
-*.cspider
+*.cspidercry
 *.zbt
 *.zza
 *.hii
@@ -401,3 +401,5 @@ Xhelp.jpg
 *ev.php
 *.paradise
 *.payday
+*.ordinal
+*.allcry
