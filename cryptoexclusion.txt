@@ -43,3 +43,4 @@ RDP.rdm
 default.abc
 *dat*.666
 SBSE____.ZBT
+*bankbatch.CLF
