@@ -31,7 +31,6 @@ SBSE____.RDM
 *viewconf.xxx
 *CE Documentation*.clf
 *rears Policy.doc.encrypted
-*SBSE*.AFD
 *SBSE.*
 RDCHXSIG.xyz
 ZZZZZZ.ZZZ
@@ -44,3 +43,4 @@ default.abc
 *dat*.666
 SBSE____.ZBT
 *bankbatch.CLF
+notes.rip
