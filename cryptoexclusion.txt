@@ -44,3 +44,4 @@ default.abc
 SBSE____.ZBT
 *bankbatch.CLF
 notes.rip
+gen2.CLF
