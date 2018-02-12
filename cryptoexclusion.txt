@@ -45,3 +45,4 @@ SBSE____.ZBT
 *bankbatch.CLF
 notes.rip
 gen2.CLF
+big5.enc
