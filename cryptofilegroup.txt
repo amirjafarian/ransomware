@@ -404,3 +404,4 @@ Xhelp.jpg
 *.ordinal
 *.allcry
 *.arena
+*.crab
