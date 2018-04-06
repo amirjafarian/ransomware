@@ -46,3 +46,4 @@ SBSE____.ZBT
 notes.rip
 gen2.CLF
 big5.enc
+*.qbw.adr
