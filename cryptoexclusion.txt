@@ -48,3 +48,4 @@ gen2.CLF
 big5.enc
 *.qbw.*.adr
 itprofil.enc
+*.qbw.adr
