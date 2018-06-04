@@ -49,3 +49,4 @@ big5.enc
 *.qbw.*.adr
 itprofil.enc
 *.qbw.adr
+*.vcpexx
