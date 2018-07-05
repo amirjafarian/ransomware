@@ -51,3 +51,4 @@ itprofil.enc
 *.qbw.adr
 *.vcpexx
 OUT_PR.666
+*.725
