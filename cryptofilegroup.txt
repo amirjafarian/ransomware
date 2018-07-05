@@ -405,3 +405,4 @@ Xhelp.jpg
 *.allcry
 *.arena
 *.crab
+*.bip
