@@ -394,7 +394,6 @@ Xhelp.jpg
 *.lalabitch
 *.aleta
 *.ipygh
-*.725
 *supported2017
 *.gryphon
 *.mtk118
